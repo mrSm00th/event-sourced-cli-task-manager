@@ -1,0 +1,30 @@
+{"timestamp":"2026-01-16T18:00:01+00:00","task_id":1,"event_type":"task_created","task_name":"learn python"}
+{"timestamp":"2026-01-16T18:00:02+00:00","task_id":1,"event_type":"task_completed"}
+
+this is not json at all
+
+{"timestamp":"2026-01-16T18:01:01+00:00","task_id":2,"event_type":"task_created","task_name":"learn sql"}
+{"timestamp":"2026-01-16T18:01:02+00:00","task_id":2,"event_type":"task_completed"}
+
+{"timestamp":"2026-01-16T18:02:01+00:00","task_id":3,"event_type":"task_created","task_name":"learn fastapi"}
+{"timestamp":"2026-01-16T18:02:02+00:00","task_id":3,"event_type":"task_deleted"}
+
+{"timestamp":"2026-01-16T18:02:03+00:00","task_id":3,"event_type":"task_completed"}
+
+{"timestamp":"2026-01-16T18:03:01+00:00","task_id":4,"event_type":"task_created","task_name":"learn docker"}
+{"timestamp":"2026-01-16T18:03:02+00:00","task_id":4}
+
+{"timestamp":"2026-01-16T18:04:01+00:00","task_id":5,"event_type":"task_created","task_name":"learn kubernetes"}
+{"timestamp":"2026-01-16T18:04:02+00:00","task_id":5,"event_type":"task_created","task_name":"duplicate id"}
+
+{"timestamp":"2026-01-16T18:05:01+00:00","task_id":6,"event_type":"task_created","task_name":"learn testing"}
+{"timestamp":"2026-01-16T18:05:02+00:00","task_id":999,"event_type":"task_completed"}
+
+{"timestamp":"2026-01-16T18:06:01+00:00","task_id":6,"event_type":"task_deleted"}
+
+{"time_stamp": "2026-01-17T12:53:26.478889+00:00", "task_id": 105, "event_type": "task_deleted"}
+
+{"timestamp":"2026-01-16T18:07:01+00:00","task_id":7,"event_type":"task_created","task_name":"learn ci/cd"}
+{"timestamp":"2026-01-16T18:07:02+00:00","task_id":7,"event_type":"task_completed"}
+{"timestamp":"2026-01-16T18:08:01+00:00","task_id":8,"event_type":"task_created","task_name":"learn monitoring"}
+{"timestamp":"2026-01-16T18:08:02+00:00","task_id":8,"event_type":"task_completed"}
